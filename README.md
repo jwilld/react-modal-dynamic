@@ -10,5 +10,7 @@ In the project directory, you can run:
 ### Description
 
 This is a simple example on how to dynamically render properties using react-modal. 
+Below is a link to the Medium post explaining this in detail.
+https://medium.com/@willdjerry/passing-props-using-react-modal-25bcf721780c
 
 
