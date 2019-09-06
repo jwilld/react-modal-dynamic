@@ -1,6 +1,4 @@
-=
-
-## Available Scripts
+## Dynamic React-Modal Example
 
 In the project directory, you can run:
 
